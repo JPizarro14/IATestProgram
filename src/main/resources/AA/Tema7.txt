@@ -1,0 +1,41 @@
+|Los métodos de ensembles se pueden dividir en:
+-Average y random methods.
++Average y boosting methods.
+-Average y gradient methods.
+\La técnica de bootstrapping:
++Es una técnica estadística que consiste en obtener una métrica sobre una muestra aleatoria con reemplazamiento.
++Permite la estimación de la distribución de la muestra de cualquier estadístico.
+-Ninguna de las anteriores es correcta.
+\En la técnica de bootstrapping:
++La inferencia de la población se lleva a cabo re-muestreando los datos de la muestra.
++Como el valor de la muestra es conocido, la calidad de la inferencia de la muestra verdadera a partir de los datos muestreados es medible.
+-Ninguna de las anteriores es correcta.
+|El método de bagging:
+-Es una técnica de ensembles que se puede aplicar únicamente a tareas de clasificación.
+-Es una técnica de ensembles que se puede aplicar únicamente a tareas de regresión.
++Es una técnica de ensembles que se puede utilizar en modelos de clasificación o regresión.
+\El método bagging:
++Se puede utilizar sin necesidad de modificar los clasificadores base.
+-Necesita que se modifiquen los algoritmos de los clasificadores base.
++Agrega las predicciones de varios clasificadores para llevar a cabo una predicción única.
+|El método bagging:
+-Se utiliza siempre junto con el método boosting.
+-Mejora los modelos por medio de combinarse con el método boosting.
++Se trata de un método para reducir el overfitting.
+-Ninguna de las anteriores es correcta.
+\En el método boosting:
++Los modelos se generan de forma secuencial e incremental.
+-Se muestrean los datos de entrada para obtener diversos clasificadores.
++Se trata de un meta-algoritmo para reducir sesgo y varianza.
+\El método de boosting:
+-Combina los clasificadores más potentes para mejorar la precisión.
++Utiliza una serie de clasificadores débiles.
++Es incremental donde nuevos modelos mejoran o se mantienen respecto de iteraciones previas.
+\Cuáles de los siguientes son algoritmos de boosting:
++TotalBoost.
+-OptimalBoosting.
++AdaBoost.
+El algoritmo original de boosting:
++Fue propuesto por Freund y Schapire en 1997.
+-Fue propuesto por Freund y Shapire en 1977.
+-Ninguna de las anteriores es correcta.

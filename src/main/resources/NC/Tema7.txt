@@ -1,0 +1,50 @@
+|Un sentimiento:
+-Es inconsciente.
+-Es lo mismo que una emoción.
++Es consciente.
+-Se produce siempre antes que la emoción.
+|Las emociones son:
+-Siempre adaptativas.
++Normalmente adaptativas.
+-Respuestas aleatorias.
+-Independiente del cuerpo.
+|Una emoción puede dar lugar:
++A varias conductas diferentes.
+-Siempre a la misma conducta.
+-A una ausencia de activación fisiológica.
+-A polaridades positivas y negativas a la vez.
+|La duración de una emoción en humanos es del orden de:
+-Milisegundos.
+-Años.
+-Días.
++Minutos.
+|¿Cuál de los siguientes no es un aspecto a tener en cuenta en el estudio de las emociones?:
+-Corporalidad.
+-Intensidad.
++Fuerza.
+-Expresión.
+|¿Cuál de los siguientes no es una emoción básica o primaria:
+-Asco.
++Vergüenza.
+-Ira.
+-Sorpresa.
+|La emoción y la cognición:
++Están íntimamente relacionados.
+-Cuentan con las mismas teorías explicativas.
+-No tienen nada que ver.
+-NO han sido objeto de dicotomías.
+|Según la propuesta de James-Lange:
+-Solo lloramos si nos sentimos tristes.
++Primero lloramos y luego nos sentimos tristes.
+-Solo nos sentimos tristes si lloramos.
+-Primero nos sentimos tristes y luego lloramos.
+|Según la teoría del marcador somático, las emociones son:
+-Representaciones puramente cognitivas.
+-Representaciones de la consecución de metas.
+-Representaciones del mundo exterior.
++Representaciones del estado del organismo.
+|Los modelos computacionales de la emoción:
+-Se centran en los aspectos de percepción subjetiva.
++Sirven también para detectar la emoción en humanos.
+-Son muy escasos.
+-No suelen usar etiquetas.

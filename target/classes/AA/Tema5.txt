@@ -1,0 +1,41 @@
+|Los árboles de decisión:
+-Son una técnica nueva para solucionar problemas de clasificación.
+-Son una técnica especifica de los problemas de regresión.
++Se llevan utilizando durante muchos años en el área de la minería de datos.
+|Los árboles de decisión:
+-Son métodos simples y difíciles de interpretar.
+-Son métodos complejos y fáciles de interpretar.
++Son métodos simples y fáciles de interpretar.
+|Los árboles de decisión:
+-Transforman las variables de entrada utilizando funciones kernel.
++Dividen el espacio de las variables en una serie de regiones.
+-Ejecutan diversas operaciones modificando las variables de entrada.
+\Los árboles de decisión:
+-Predicen la moda en el caso de un problema de regresión.
++Predicen la media en el caso de un problema de regresión.
++Predicen la moda en el caso de un problema de clasificación.
+-Predicen la moda en el caso de un problema de regresión.
+|Un árbol de decisión se obtiene:
+-Por medio de un algoritmo que elige primero una variable aleatoria.
++Por medio de un algoritmo que elige primero aquella variable más predictiva.
+-Por medio de un algoritmo que elige primero aquella variable menos predictiva.
+\El criterio de parada de la construcción de un árbol de decisión viene dado por:
++Todos, o casi todos, los ejemplos del nodo son de la misma clase.
++No existen variables para distinguir entre los ejemplos.
++El árbol ha alcanzado un tamaño predefinido.
+|En el caso de la entropía:
+-Un valor de 0 indica desorden completo.
+-Un valor de 1 indica orden completo.
++Ninguna de las anteriores es correcta.
+\La poda de los árboles se realiza:
+-Para reducir recursos computacionales.
++Para evitar el sobre-ajuste.
++Para generalizar las predicciones.
+\En los árboles de decisión para hacer la división:
++Se puede utilizar el criterio de Gini index.
++Se puede utilizar el criterio de entropía cruzada.
++Se puede utilizar el criterio de ganancia de información.
+\Cuáles de las siguientes afirmaciones son verdaderas:
+-Un árbol de decisión y una regresión lineal pueden modelar problemas de similares.
++Un árbol de decisión modela bien problemas con dependencia no lineal.
++Una regresión lineal modela bien problemas con dependencia lineal.

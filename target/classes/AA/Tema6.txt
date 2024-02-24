@@ -1,0 +1,40 @@
+\El método random forest:
+-Se basa en los árboles de decisión y fue inventado en los años 90.
++Se basa en el método bagging y en los árboles de decisión.
++Fue inventado en el año 2001 por Leo Breiman.
+\El método random forest:
++Combina las técnicas de bagging con la selección de variables aleatorias para incluir diversidad.
++Es un método de ensemble basado en árboles de decisión.
+-Se basa en los principios de los números aleatorios para realizar las predicciones.
+\Los modelos de random forest:
++En los problemas de clasificación predicen utilizando la moda de la clase más probable.
++En los problemas de regresión predicen utilizando la media de las predicciones de cada árbol.
+-Tanto en los problemas de clasificación como regresión utilizan la mediana de las predicciones.
+|El motivo de utilizar un gran número de árboles en random forest:
+-Cuantos más árboles mejor funciona la aleatoriedad.
++Las variables tienen más probabilidades de aparecer en los diferentes cortes.
+-Ninguna de las anteriores es correcta.
+|En los random forest respecto de los árboles de decisión:
+-La varianza de los árboles se suele incrementar.
++La varianza de los árboles es el mismo.
+-La varianza de los árboles suele decrecer.
+|En los random forest respecto de los árboles de decisión:
+-El sesgo de los árboles se suele incrementar.
+-El sesgo de los árboles es el mismo.
++El sesgo de los árboles suele decrecer.
+|El out-of-bag error:
++Consiste en aquellos errores que se quedan fuera de un umbral.
+-Es una forma sencilla de estimar el error en test en un modelo bagged.
+-Está formado por los errores en cada una de las iteraciones.
+|Un modelo de random forest:
+-Hay que entrenarlo siempre con validación cruzada.
++Se puede entrenar
+-Ninguna de las anteriores es correcta.
+|En cuanto al número de árboles de un modelo de random forest:
+-Cuantos más árboles tenga mejor.
++Existe un punto óptimo en lo referente al número de árboles.
+-La capacidad predictiva siempre es la misma a partir de 100 árboles.
+|Los random forest tienen como parámetros:
++Principalmente el número de árboles y el número de variables aleatorias elegidas en cada corte.
+-Bastantes parámetros que son muy sensibles y afectan a su precisión.
+-Ninguna de las anteriores es correcta.

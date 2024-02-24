@@ -1,0 +1,50 @@
+|¿Cuál de los siguientes no es un mecanismo de las funciones ejecutivas?
+-Planificación.
+-Evaluación.
++Imitación.
+-Revisión.
+|¿Cuál de los siguientes es un componente de las funciones ejecutivas?
++Razonamiento.
+-Memoria a largo plazo.
+-Aprendizaje vicario.
+-B y C son correctas.
+|¿Cuál es el componente de las funciones ejecutivas que permite realizar más de una tarea al mismo tiempo?
+-Inhibición.
+-Atención sostenida.
+-Estimación temporal.
++Atención dividida.
+|Las funciones ejecutivas suponen una ventaja evolutiva porque permiten resolver problemas:
++Novedosos.
+-De forma automática.
+-Inconscientemente.
+-Repetitivos.
+|A la capacidad de detener una respuesta automática, se le denomina:
+-Impulsividad.
++Inhibición.
+-Hipofrontalidad.
+-Déficit inhibitorio.
+|El déficit inhibitorio:
+-Mejora la planificación.
+-No provoca otros déficits.
+-No está presente en el TDAH.
++Provoca déficits cognitivos.
+|La inhibición de la atención:
++Es una inhibición cognitiva.
+-Es una inhibición conductual.
+-Es un déficit inhibitorio.
+-No es posible.
+|El habla interior o lenguaje intrínseco:
+-Solo aparece en adultos.
+-Solo aparece en niños pequeños.
++Contribuye a la autorregulación.
+-No tiene nada que ver con las funciones ejecutivas.
+|Considerar que la corteza prefrontal es «un cerebro que controla el cerebro».
+-Un error, pues los lóbulos frontales no están implicados en las funciones ejecutivas.
+-Una solución al problema del homúnculo.
+-Una metáfora falsa.
++El problema del homúnculo.
+|¿Qué estructura subcortical se asocia con el control motor y la selección de acciones?:
+-El sistema frontal.
+-La amígdala.
++Los ganglios basales.
+-El tálamo.

@@ -1,0 +1,50 @@
+|Pensamiento y lenguaje:
+-Son la misma cosa.
+-No tienen ninguna relación.
+-Ambas cosas se localizan en centros concretos del cerebro.
++Están muy relacionados.
+|Las palabras son:
+-Signos.
++Símbolos.
+-Relaciones.
+-A y C son correctas.
+|Los sistemas que no son capaces de categorizar porque se quedan en un mero análisis de las características de los objetos, se dice que:
++Sobre-ajustan.
+-Infra-categorizan.
+-Sobre-generalizan.
+-Abstraen el conociemiento.
+|La jergafasia aparece cuando hay una lesión:
+-En el sistema semántico.
+-En el sistema de entrada.
++En la conexión del sistema semántico con otros sistemas.
+-En la conexión del área de Broca con el área de Wernicke.
+|Categorías y conceptos:
+-Son exactamente lo mismo.
+-Para Kant eran lo mismo.
++Para Kant eran diferentes.
+-No tienen relación.
+|Según Hegel, el uso de las categorías:
+-No influye en nuestra forma de pensar.
++Determina nuestra forma de pensar.
+-Es consciente.
+-Es ajeno al lenguaje.
+|La intensión hace referencia a:
+-Las categorías subordinadas.
+-Las clases de un mismo nivel jerárquico.
+-Los prototipos de una clase.
++El conjunto de características de una clase.
+|Las características que comparte todos los miembros de una clase son:
+-Rasgos extensionales.
++Rasgos definitorios.
+-Todos suficientes.
+-Supraordenados.
+|El concepto «atornillador de impacto» pertenece al:
+-Nivel intermedio
++Nivel subordinado.
+-Nivel supraordenado.
+-Nivel subordenado.
+|Los procesos inductivos:
+-Son iguales que los deductivos.
+-No proporcionan una generalización.
++Proporcionan una gestión económica del conocimiento.
+-Aparecen tardíamente en el desarrollo humano.

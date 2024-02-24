@@ -1,0 +1,50 @@
+|Los efectores son:
+-Los músculos.
+-Las motoneuronas.
++Las partes del cuerpo que podemos mover.
+-Las partes del cuerpo que no podemos mover.
+|Cuanto más importante es el efector asociado a una región neuronal:
++Más grande se hace esta zona.
+-Menos corteza motora se dedica a ese efector.
+-Más se realiza un control ipsilateral.
+-B y C son correctas.
+|¿Cuál de las siguientes afirmaciones es verdadera?:
++El área premotora está en la corteza.
+-El área M1 es subcortical.
+-Los ganglios basales están el área premotora.
+-No tiene ninguna relación con la inteligencia artificial.
+|¿Cuál de las siguientes afirmaciones es falsa?:
+-Los ganglios basales son estructuras subcorticales.
+-La corteza motora primaria sigue una representación somatotópica.
+-La práctica del piano puede cambiar la representación de los dedos en la corteza motora.
++Los ganglios basales no están relacionados con los movimientos.
+|La corteza motora del hemisferio derecho:
++Controla el lado izquierdo del cuerpo.
+-Controla ambos lados del cuerpo.
+-Controla el lado derecho del cuerpo.
+-Controla la parte inferior del cuerpo.
+|¿Qué concepto se refiere a un nivel de control más bajo?:
+-Ideación de la acción.
++Reflejo motor.
+-Planificación de la acción.
+-Secuenciación de actos motores.
+|Las áreas subcorticales se relacionan con acciones:
++Guiadas por agentes internos.
+-Guiadas por agentes externos.
+-Voluntarias.
+-Reflejas.
+|Los tractos extrapiramidales tienen su origen en:
+-En la corteza.
+-En las neuronas piramidales.
+-En las neuronas extrapiramidales.
++Fuera de la corteza.
+|En la secuencia motora:
+-No se realiza una selección de la acción.
++La planificación se realiza antes de la programación motora.
+-La programación motora se hace antes que la planificación.
+-Lo primero es la ejecución de la acción.
+|La cognición y el control motor:
+-Son procesos simples.
+-Se ejecutan exactamente en las mismas áreas cerebrales.
++Están íntimamente relacionados.
+-No se relacionan en ningún estadio.

@@ -1,0 +1,42 @@
+|¿Cuáles de las siguientes afirmaciones son correctas?
+-El aprendizaje automático utiliza siempre ejemplos con clases conocidas previamente.
+-El aprendizaje automático sirve únicamente para resolver problemas de predicción numérica.
++El aprendizaje supervisado busca automáticamente los mecanismos que relacionan una entrada con una salida.
+-B y C son correctas.
+|En el caso de los progresos de regresión:
+-La variable respuesta que se desea predecir es de tipo cualitativa.
++La variable respuesta que se desea predecir es de tipo cuantitativa.
+-No siempre existe una variable respuesta.
+-Ninguna de las anteriores.
+|En los problemas de clasificación
+-La variable respuesta contiene siempre más de dos categorías.
++La variable respuesta contiene siempre dos o más categorías.
+-La variable respuesta es de tipo numérico.
+-Ninguna de las anteriores es correcta.
+|En la fase de entrenamiento de los modelos:
+-Se realiza la extracción de características y se utiliza para generar posteriormente una predicción.
+-Se elige que modelo es el mejor.
++Se aprende un modelo que podrá ser utilizado posteriormente.
+-Ninguna de las anteriores es correcta.
+\En el aprendizaje automático
++El conjunto de entrenamiento se utiliza para construir un modelo.
++El conjunto de test se utiliza para evaluar un modelo.
+-Si un modelo tiene un error mínimo en el conjunto de entrenamiento también lo tendrá en el conjunto de test.
+-Todas las anteriores son correctas.
+|A la hora de construir los conjuntos de entrenamiento y test:
++Es necesario que no haya diferencias sistemáticas entre uno y otro.
+-Es necesario que haya diferencias sistemáticas entre uno y otro.
+-Ninguna de las anteriores es correcta.
+|El método K-Cross validation:
+-Consiste en dividir los datos disponibles K grupos de tamaño variable cada uno de ellos.
++Consiste en dividir los datos disponibles en K grupos del mismo tamaño.
+-Ninguna de las anteriores es correcta.
+|Las técnicas de agrupamiento:
+-Se utilizan para agrupar los datos cuando se conoce el valor de los clases.
++Se utilizan para agrupar los datos cuando no se conoce el valor de las clases.
+-Se utiliza para clasificar las variables en función de una clase target.
+-Ninguna de las anteriores es correcta.
+|Los algoritmos de detección de anomalías:
+-Siempre son algoritmos de detección supervisada.
+-Siempre son algoritmos de detección no supervisada.
++Se puede clasificar entre algoritmos de detección supervisada y no supervisada.

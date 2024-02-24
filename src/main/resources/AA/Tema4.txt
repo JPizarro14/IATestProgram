@@ -1,0 +1,40 @@
+|El teorema de Bayes:
+-Fue propuesto por el reverendo Thomas Bayes.
++Relaciona la probabilidad de dos eventos A y B utilizando la dependencia condicional de uno de ellos.
+-Relaciona la probabilidad de dos eventos A y B utilizando la dependencia condicional de ambos de ellos.
+|En el teorema de Bayes:
++Los eventos deben de ser dependientes y mutuamente excluyentes.
+-Los eventos deben de ser independientes y mutuamente excluyentes.
+-Los eventos deben de ser independientes.
+|Si dos eventos son exhaustivos:
+-Deben ocurrir los dos.
++Al menos debe ocurrir uno de ellos.
+-Ninguna de las anteriores.
+|Un evento mutuamente excluyente:
+-Cuando siempre debe ocurrir el mismo evento.
++Cuando dos resultados diferentes de un mismo evento no pueden ocurrir al mismo tiempo.
+-Ninguna de las anteriores.
+\Las tablas de frecuencias:
++Indican el número de veces que el evento aparece en cada una de las situaciones.
+-Sirven para medir el éxito del modelo.
++Son la base para la construcción del modelo Naive Bayes.
+\Los eventos dependientes:
++Permiten estimar la presencia de un evento en función del otro.
+-Implica que siempre ocurren a la vez.
++Implica que la existencia de uno puede conllevar la existencia del otro.
+\Cuáles de las siguientes afirmaciones son ciertas sobre el clasificador de Naive Bayes
++Utiliza datos históricos para obtener la probabilidad observada de cada evento en función de su vector de características.
++Asume independencia condicional entre los eventos.
++El cálculo riguroso del teorema de Bayes es computacionalmente costoso.
+\Cuando existen combinaciones desconocidas en los datos de entrada:
++Las probabilidades a posteriori obtenidas pueden no tener sentido.
++El teorema de Bayes utiliza el estimador de Laplace.
+-Se eliminan estas combinaciones de los datos de entrada.
+\La discretización de variables:
++Es una técnica que se aplica para utilizar el clasificador Naive Bayes con variables numéricas.
++Es ideal cuando hay grandes cantidades de datos.
+-Funciona mejor cuando hay pocos datos.
+|La discretización de variables:
++Siempre se traduce en reducción de información.
+-Nunca se traduce en reducción de información.
+-Ninguna de las anteriores

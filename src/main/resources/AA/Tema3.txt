@@ -1,0 +1,42 @@
+|Los algoritmos de clasificación tienen como objetivo:
++Predecir la clase más probable de entre varias posibles.
++Predecir la distribución de probabilidad de las clases de cada instancia.
+-Predecir un valor numérico como variable objetivo.
+|Dado dos clasificadores binarios si se equivocan en las clases más probables de las mismas instancias
+-Son igual de buenos.
++Si uno tiene una mayor incertidumbre que el otro es peor clasificador.
+-Ninguna de las anteriores.
+\Cuáles de las siguientes métricas son utilizadas en los modelos de clasificación:
++Precisión.
++Recall.
+-MSE.
++F-Measure.
+|Un matriz de confusión es:
++Una tabla que organiza las predicciones en función de los valores reales de los datos.
+-Una tabla que tiene las predicciones de los diferentes clasificadores.
+-Una tabla que contiene el valor real y el valor deseado.
+\La métrica de accuracy:
++Se conoce como la ratio de éxito.
++Representa el número de predicciones correctas entre el total de predicciones.
+-Representa el número de falsos detectados.
+-Ninguna de las anteriores.
+|Un modelo con gran valor de precisión:
+-Indica que la mayoría de las veces que se predice la clase negativa está en lo cierto.
++Indica que la mayoría de las veces que se predice la clase positiva está en lo cierto.
+-Las dos anteriores son correctas.
+|Un modelo con gran valor de recall:
+-Captura un gran porcentaje de ejemplos negativos.
++Captura un gran porcentaje de ejemplos positivos.
+-Las dos anteriores son correctas.
+|La métrica F1:
+-Se trata de una forma de calcular el AUC.
++Combina precisión y recall.
+-Combina sensibilidad y especificidad.
+|El área bajo la curva (AUC):
++Es un valor comprendido entre o y 1.
+-Es un valor comprendido entre 0 y 100.
+-Es un porcentaje entre o y 100 %.
+|La curva ROC mide:
++La ratio de verdaderos positivos y falsos positivos.
+-La ratio de verdaderos positivos y falsos negativos.
+-La ratio de verdaderos negativos y falsos positivos.

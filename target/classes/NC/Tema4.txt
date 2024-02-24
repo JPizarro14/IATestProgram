@@ -1,0 +1,50 @@
+|El micrótomo se usa para:
+-Observación in vivo.
++Observación post mortem.
+-Registro de actividad eléctrica.
+-Estimulación eléctrica.
+|La tinción de Nissl revolucionó los estudios:
+-Funcionales.
+-Electrofisiológicos.
++Neuroanatómicos.
+-A y B son correctas.
+|Las técnicas inmunohistoquímicas:
+-Detectan oxígeno.
+-Detectan hidrógeno.
+-Detectan glucosa.
++Detectan proteínas.
+|El TAC emplea radicación de espectro:
++De los rayos X.
+-Ultravioleta.
+-Infrarrojo.
+-De los rayos Gamma.
+|Con un TAC se pueden conseguir imágenes:
+-Solo en 2D.
+-Solo en 3D.
++En 2D y 3D.
+-Funcionales.
+|La RMN se basa en:
+-La orientación de los positrones.
++La orientación de los núcleos de hidrógeno.
+-La orientación de los electrones.
+-Las medidas de electrodos.
+|La estimulación eléctrica mediante microelectrodos es una técnica:
++Invasiva.
+-No invasiva.
+-De baja resolución espacial.
+-De baja resolución temporal.
+|Los correlatos neuronales se refieren a establecer relaciones entre:
+-Corteza y áreas subcorticales.
++Funciones y estructuras neuronales.
+-Personalidad y genética.
+-Déficits cognitivos y funciones cognitivas.
+|El electroencefalograma (EEG) y los potenciales evocados (PE):
+-Tienen alta resolución espacial.
+-Tienen baja resolución temporal.
++Tienen baja resolución espacial.
+-Requieren cirugía.
+|La Resonancia Magnética Funcional (RMf):
++Usa la técnica BOLD.
+-Usa la técnica PET.
+-Se basa en el EEG.
+-Requiere marcadores radioactivos.

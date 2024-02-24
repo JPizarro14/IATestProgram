@@ -1,0 +1,50 @@
+|Los sentidos interoceptivos:
++Obtienen información del interior del cuerpo.
+-Obtienen información del exterior del cuerpo.
+-No usan transducción eléctrica.
+-Corresponden a una única modalidad sensorial.
+|El proceso de transducción sensorial transforma:
+-Electricidad en visión.
+-Visión en magnetismo.
++Energía física en impulsos eléctricos.
+-Electricidad en potenciales de acción.
+|Las células ganglionares:
+-No son neuronas.
+-Se encuentran en la corteza visual.
++Están en la retina.
+-Son fotorreceptoras.
+|La vía visual de procesamiento ventral es conocida como la vía del:
++«Qué».
+-«Cuándo».
+-«Dónde».
+-«Por qué».
+|¿Cuántas vías de procesamiento visual se ha identificado en el cerebro?:
+-Una.
+-Dos.
++Más de dos.
+-Ninguno.
+|Los sentidos:
++Se integran con el resto de funciones cognitivos.
+-Son independientes del procesamiento cognitivo.
+-Realizan sus procesos de forma pasiva.
+-Usan vías eferentes.
+|En el modelo de Marr, el bosquejo inicial se compone de:
+-Proyecciones en un plano unidimensional.
+-Figuras geométricas en 3D.
+-Figuras geométricas en 2D.
++Brillo, sombras, contornos, etc.
+|En el modelo de Marr, el modelo 3D es:
++Independientemente de la posición del observador.
+-Relativo a la posición del observador.
+-El segundo modelo que se construye.
+-El resultado de la primera etapa de procesamiento.
+|En la tarea de percepción visual de Marr, el nivel algorítmico:
+-Requiere la especificación de arquitectura hardware.
+-Se puede especificar sin necesidad de la teoría computacional.
++Se puede especificar sin necesidad del nivel de implementación.
+-Establece la meta de la computación.
+|La decisión sobre dónde se fija la mirada requiere:
++Integración de mecanismos perceptivos y atencionales.
+-De una única vía de procesamiento visual.
+-Percepción consciente.
+-Una reflexión profunda acerca de los objetos y su reconocimiento.

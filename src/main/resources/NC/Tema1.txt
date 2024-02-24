@@ -1,0 +1,50 @@
+|La neurociencia:
+-Es el conjunto de disciplinas científicas que se ocupan del estudio exclusivo del cerebro humano.
++Es el conjunto de disciplinas científicas que se ocupan del estudio del sistema nervioso.
+-Es un conjunto de disciplinas científicas y no científicas que estudian al ser humano
+-A y B son correctas.
+|El tejido nervioso está constituido por:
+-Células del mismo tipo.
+-Los núcleos de las neuronas, pero no los axones.
+-Los axones mielinizados agrupados en haces, pero no los núcleos de las células.
++Multitud de tipos de células, entre las que destacan las neuronas.
+|La neurociencia:
++Ha ido ampliando su foco de estudio.
+-Cada vez se ha ido teniendo un foco más estrecho y menos interés.
+-No tiene en cuenta las emociones.
+-No tiene ninguna relación con la inteligencia artificial.
+|Los procesos que estudia la neurociencia dan lugar a:
+-Solo la conducta.
+-Solo las emociones.
++Todo el repertorio emocional y conductual.
+-El metabolismo de las grasas.
+|Los modelos computacionales bioinspirados:
++Son menos complejos que los procesos reales del sistema nervioso.
+-Son más complejos que los procesos reales del sistema nervioso.
+-Son igual de complejos que los procesos reales del sistema nervioso.
+-No tienen nada que ver con los procesos reales del sistema nervioso.
+|El sistema nervioso es un sistema de procesamiento:
+-Serie.
+-Secuencial.
++Distribuido y paralelo.
+-Distribuido y secuencial.
+|Los diferentes campos científicos relacionados con la neurociencia:
++Atienden a diferentes niveles de descripción.
+-Todos se centran en el nivel de descripción biológico.
+-Todos se centran en el nivel de descripción neurobiológico.
+-Se centran en el nivel físico.
+|La psicología cognitiva se encarga de estudiar principalmente:
+-La interconexión entre neuronas.
++La mente y el comportamiento.
+-Los circuitos neuronales anómalos.
+-Las técnicas de computación cuántica.
+|La neurociencia cognitiva se compone de los siguientes campos:
++Neurociencia, inteligencia artificial y psicología cognitiva.
+-Neurociencia, inteligencia artificial y psicología social.
+-Neurociencia, neurobiología y psicología cognitiva.
+-Medicina, inteligencia artificial y psicología básica.
+|Una sinapsis:
+-Ocurre siempre en el núcleo de la neurona.
++Puede ser eléctrica.
+-Ocurre cuando la señal llega al axón desde una dendrita.
+-Requiere al menos tres neuronas.

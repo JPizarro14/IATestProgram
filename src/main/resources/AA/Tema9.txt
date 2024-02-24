@@ -1,0 +1,40 @@
+|Las redes de neuronas artificiales:
+-Se pueden aplicar únicamente a problemas de regresión.
+-Se pueden aplicar únicamente a problemas de clasificación.
++Se pueden aplicar tanto a problemas de clasificación como de regresión.
+\Cuáles de las siguientes afirmaciones sobre el número de neuronas son ciertas:
++El número de neuronas de la capa de entrada viene determinado por el número de variables de entrada.
++El número de neuronas de salida viene determinado por el número de salidas a modelar.
++No hay una regla para determinar el número de cada capa.
+|Según el teorema de aproximación universal de Cybenko:
+-La aproximación de una función matemática depende en gran medida de la semilla utilizada para generar el número aleatorio.
+-Existe una pequeña probabilidad de no poder aproximar una función matemática con una red de neuronas.
++Ninguna de las anteriores es correcta.
+|Cuáles de las siguientes afirmaciones sobre la dirección de información son ciertas:
+-Las redes feed-forward tienen bucles que permiten feedback en los datos.
+-Las redes recurrentes siempre tienen un delay que permite modelar la memoria.
++Ninguna de las anteriores es correcta.
+|En cuanto a las capas de una red de neuronas:
++Una red de neuronas multi-capa añade una o más capas ocultas con un número de neuronas variable en cada una.
+-Una red de neuronas multi-capa añade una o más capas ocultas con el mismo número de neuronas en cada una.
+-Están siempre definidas de antemano en todos los problemas.
+|En una neurona artificial:
++La salida de cada neurona es obtenida después de aplicar la función de activación.
++La señal de cada dendrita es ponderada con los pesos de acuerdo a su importancia.
+-Los valores de entrada y de salida siempre son iguales.
+|La función de activación gaussiana:
++Da lugar a un modelo de red de base radial.
+-Fue aplicada por Gauss la primera vez.
+-Se puede utilizar únicamente en las neuronas de la primera capa.
+|La función de activación lineal:
+-Genera en la salida la misma información que la entrada.
++Da lugar a un modelo de regresión lineal.
+-Se utiliza únicamente en las últimas capas.
+\En la técnica conocida como descenso de gradiente:
+-Los pesos se modifican siguiendo la dirección que produce una menor reducción del error.
++Los pesos se modifican siguiendo la dirección que produce una mayor reducción del error.
++Se utiliza la derivada de la activación de cada neurona para identificar el gradiente.
+|Cuáles de las siguientes afirmaciones sobre el algoritmo back-propagation son ciertas:
+-Itera en ciclos llamados epochs utilizando tres fases en cada ciclo.
++Se utiliza para encontrar el valor óptimo de los pesos de una red.
+-Modifica la estructura de la red para realizar el entrenamiento.

@@ -1,0 +1,50 @@
+|¿Cuál de las siguientes no es una técnica de estudio del sistema nervioso?:
+-Técnica lesional.
+-Técnica de neuroimagen.
++Técnica electromagnética
+-Técnica neuroanatómica.
+|Para distinguir los principales componentes anatómicos del encéfalo se requiere:
+-Una técnica microscópica.
+-Una técnica histológica.
+-Una técnica de tinción.
++A y C son correctas.
+|Los objetivos principales del estudio neuroanatómico son:
+-Identificar las zonas grises del cerebro.
+-Medir el tamaño de las estructuras normales.
++Identificar las estructuras neuronales y cómo están conectadas.
+-Localizar los centros de sustancia blanca.
+|¿Qué sujetos se suelen emplear para aplicar técnicas post mortem?:
++Animales de laboratorio.
+-Humanos sin ninguna patología neurológica.
+-Animales salvajes.
+-Humanos que han sufrido una lesión cerebral leve.
+|Las técnicas de tinción se usan para:
+-Estimular todo el encéfalo.
+-Inhibir el funcionamiento de zonas específicas del cerebro.
+-Medir la actividad eléctrica de la corteza cerebral.
++Identificar áreas específicas del cerebro.
+|Los surcos o cisuras se encuentran:
++En la corteza.
+-En las áreas subcorticales.
+-En la sustancia blanca.
+-En el hipocampo.
+|Los cuerpos celulares de neuronas y células gliales:
+-Conectan diferentes áreas del cerebro.
+-Componen la sustancia blanca.
+-Están recubiertos de mielina.
++Componen la sustancia gris.
+|Los correlatos neuronales se refieren a establecer relaciones entre:
+-Corteza y áreas subcorticales.
++Funciones y estructuras neuronales.
+-Personalidad y genética.
+-Déficits cognitivos y funciones cognitivas.
+|Los estudios de caso único se basan en:
++Humanos que han sufrido daño cerebral.
+-Animales de laboratorio.
+-Humanos sanos.
+-Grupos de pacientes neurológicos.
+|Los modelos cognitivos derivados de la investigación en neurociencia:
+-No se pueden traducir en modelos computacionales.
++Se pueden traducir en modelos computacionales.
+-No se obtienen usando el método científico.
+-No sirven para la bioinspiración en inteligencia artificial.

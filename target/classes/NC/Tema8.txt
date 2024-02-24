@@ -1,0 +1,50 @@
+|La motivación proporciona:
+-Energía, pero no ofrece dirección.
+-Dirección para la conducta, pero no energiza.
++Energía y dirección para la conducta.
+-Conductas desadaptativas.
+|¿Cuál de los siguientes no es un motivo básico?:
+-Deseo sexual.
+-Sed.
+-Hambre.
++Deseo de amistad.
+|¿Cuál de los siguientes no es un motivo secundario?:
++Deseo sexual.
+-Deseo de logro.
+-Deseo de afiliación.
+-Deseo de poder.
+|La homeostasis se refiere a:
+-Maximizar una variable.
++Mantener un equilibrio en los valores de una variable.
+-Minimizar una variable.
+-Variar estocásticamente una variable.
+|Las teorías E/V (expectativas/valencias):
+-Se basan en la homeostasis.
+-Tienen un enfoque holístico.
++Tienen un enfoque cognitivo.
+-Son las mismas que la reducción del impulso.
+|Los niños juegan porque están:
+-Motivados secundariamente.
+-Motivados instrumentalmente.
+-Motivados extrínsecamente.
++Motivados intrínsecamente.
+|Las vías dopaminérgicas del mesencéfalo juegan un papel importante en:
+-La predicción de la conducta.
++La predicción de la recompensa.
+-La imitación.
+-La regulación de la temperatura.
+|El centro del circuito de la recompensa es:
+-El putamen.
+-El hipotálamo.
+-El globo pálido.
++El núcleo accumbens.
+|El regulador central de múltiples funciones autónomas es:
+-El putamen.
++El hipotálamo.
+-El globo pálido.
+-El núcleo accubens.
+|La tesis de la ortogonalidad postula que:
+-La inteligencia y las motivaciones de los agentes son dependientes.
++La inteligencia y las motivaciones de los agentes son independientes.
+-Las metas intermedias y los objetivos son iguales.
+-La motivación no se puede conseguir en sistemas artificiales.

@@ -1,0 +1,42 @@
+|En el aprendizaje supervisado:
+-Para cada una de las observaciones puede existir o no una medida de la variable repuesta.
++Para cada una de las observaciones existe una medida de la variable respuesta.
+\Con cuáles de los siguientes nombres se conoce a la variable respuesta:
+-Estimador
++Variable Objetivo.
++Target.
+-Regressors.
+\Con cuáles de los siguientes nombres se conocen a las variables predictoras:
++Inputs.
++Variables independientes.
+-Modelos.
++Features.
+|A la función f(x) ideal se conoce con el nombre de:
++Función de regresión.
+-Función estimadora.
+-Función perfecta.
+|La función predictora óptima es aquella:
+-Que se obtiene más rápidamente.
++Tiene un error cuadrático medio menor.
+-Abarca el mayor número de ejemplos.
+|El cálculo del error en la función predictora óptima se divide en:
++Error reducible y error irreducible.
+-El error aleatorio y el error futuro.
+-Ninguna de las anteriores
+\Cuáles de las siguientes métricas se utilizan para evaluar los problemas de regresión:
++MAE
++MSE
++RMSE
++RMSLE
+|El Root Mean Square Error (RMSE):
+-Penaliza los errores pequeños.
++Amplifica y penaliza los errores grandes.
+-Los errores grandes y pequeños se tratan igual.
+|El Root Mean Square Logarithmic Error (RMSLE):
++Penaliza más un under-prediction que un over-predictrin.
+-Penaliza más un over-prediction que un un under-predcition.
+-Ninguna de las anteriores es correcta.
+|El coeficiente de determinación permite:
+-Obtener una métrica de la bondad del ajuste
+-Determinar la varianza en la predicción de los datos
++Todas las anteriores son correctas.

@@ -1,0 +1,40 @@
+|El aprendizaje por refuerzo:
+-Es un tipo de aprendizaje supervisado.
+-Es un tipo de aprendizaje no supervisado.
++Ninguna de las anteriores es correcta.
+\El aprendizaje por refuerzo:
++Va aprendiendo del feedback obtenido por cada acción.
++Se utiliza en las situaciones en las que un agente puede observar el entorno.
++Comprende los algoritmos que son capaces de aprender del entorno.
+|En un proceso de decisión de Markov:
+-Solo se tienen en cuenta los estados posteriores.
++Solo se tienen en cuenta el estado previo.
+-Se tienen en cuenta el estado previo y los siguientes.
+\En el algoritmo Q-learning:
++Si una acción en un estado es la causante de un resultado no deseado, esta acción no se usará en el futuro.
++Si una acción en un estado es la causante de un resultado deseado, se aplicará esa acción es ese estado.
+-La mejora del algoritmo Q-learning es porque no es necesario utilizar el estado.
+|Los parámetros de learning rate y discount rate del algoritmo Q-learning:
+-Es mejor que estén cercanos a 1.
+-Es mejor que estén cercanos a 0.
++Idealmente deberían estar alejados de los extremos.
+|La ecuación de Bellman:
+-Actualmente está en desuso.
+-Se utiliza como punto inicial del aprendizaje.
++Permite definir el valor de forma recursiva.
+\El algoritmo de aprendizaje por refuerzo de fuerza bruta:
+-Es una forma óptima de solucionar el problema.
++Explora todas las posibles combinaciones.
++Es un método costoso.
+\El algoritmo Q-learning:
+-Únicamente tiene en cuenta las recompensas a largo plazo.
++El valor Q contiene la suma de todas las posibles recompensas futuras.
++Tiene en cuenta tanto las recompensas a largo plazo como a corto.
+\La velocidad de aprendizaje del algoritmo Q-learning:
++Es un valor entre 0 y 1 que indica cuanto se puede aprender en cada episodio.
+-En el caso de 0 no se aprende nada.
++En el caso de 1 se borra lo anterior y se aprende de nuevo.
+|El factor de descuento del algoritmo Q-learning:
+-Es un valor entre 0 y 100 que indica la importancia del largo plazo respecto del corto plazo.
++Es un valor entre 0 y 1 que indica la importancia del largo plazo respecto del corto.
+-Es un valor entre 0 y 1 que indica la importancia de las instancias.

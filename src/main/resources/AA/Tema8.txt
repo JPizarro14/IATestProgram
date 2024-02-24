@@ -1,0 +1,40 @@
+\Cuáles de las siguientes afirmaciones sobre las máquinas de vector de soporte son ciertas:
++Su objetivo es buscar un plano que separe las clases en feature space.
++Modifican la definición de separación.
++Mejoran y enriquecen el feature space original.
+\Cuáles de las siguientes afirmaciones sobre los hiperplanos son ciertas:
+-Un hiperplano solo se define para 2 dimensiones.
++En un espacio de 2 dimensiones el hiperplano es una recta.
++Un hiperplano está definido para n dimensiones.
+|El vector normal:
+-Puede apuntar a una dirección ortogonal al hiperplano.
++Debe apuntar a una dirección ortogonal al hiperplano.
+-No requiere ningún tipo de ortogonalidad.
+|Cuáles de las siguientes afirmaciones son ciertas:
++Para una serie de datos de entrenamiento de un problema binario existen múltiples hiperplanos posibles.
+-Solo existe un hiperplano posible para cada uno de los conjuntos de datos.
+-Los hiperplanos hay que crearlos únicamente para realizar predicciones.
+\Indique las afirmaciones ciertas sobre un maximal classifier en una clasificación binaria:
++Proporciona la mayor diferencia (gap) entre las instancias de cada uno de los ejemplos.
+-Proporciona información sobre cuanto margen de mejora existe.
++Habitualmente los datos no son fácilmente separables por una recta y el modelo falla.
+|De las siguientes afirmaciones soft-margin indique cuáles son correctas:
+-Reduce de forma significativa el margen disponible para trabajar.
+-Utiliza desarrollo software para poder ejecutarse.
++Permite separar puntos que no son linealmente separables.
+|Cuáles de las siguientes afirmaciones sobre la función de coste son apropiadas:
+-Cuanto más grande es el parámetro de coste mayor es el margen.
++Cuanto más pequeño sea el parámetro de coste mayor es el margen.
+-La función de coste sirve para determinar el balance coste-beneficio de utilizar un modelo de clasificación.
+|La expansión en forma de polinomios:
++Tiene un alto coste computacional.
++Permite obtener fronteras de decisión no lineales sobre el espacio original.
+-Ninguna de las anteriores es correcta.
+|Cuáles de las siguientes afirmaciones son una ventaja de los kernels:
+-Permiten utilizar un menor volumen de información.
+-El coste computacional es menor al utilizar kernels.
++Los kernels permiten obtener fronteras de decisión no lineales.
+|Cuáles de las siguientes afirmaciones sobre los kernels son ciertas:
++Se apoyan en el concepto de producto vectorial.
++Se trata de funciones que reciben dos vectores como parámetro.
+-Se trata de funciones que reducen la información y pueden recibir cualquier parámetro.

@@ -1,0 +1,40 @@
+|En el aprendizaje no supervisado:
+-Puede existir o no información de la variable objetivo.
++El valor de la variable objetivo se desconoce y se desea agrupar los datos.
+-Se conoce la variable objetivo y se utiliza en estos algoritmos.
+|Los algoritmos de aprendizaje no supervisado:
++Buscan patrones en los datos con el objetivo de realizar agrupaciones.
+-Buscan patrones en los datos con el objetivo de predecir una variable.
+-Ninguna de las anteriores es correcta.
+|La división entre grupos similares, se lleva a cabo:
+-Indicando las características de cada grupo.
++Utilizando variables de los diferentes grupos, pero sin indicarle las características de los grupos.
+-Agrupando los grupos en función de una variable objetivo.
+\Los algoritmos de agrupación:
++Tienen definidos el número de grupos de antemano.
++Comienzan en un punto y van iterando.
+-Son la base para el aprendizaje supervisado.
+\Los algoritmos jerárquicos:
++En cada iteración solo un objeto cambia de grupo.
++Los grupos están anidados en pasos anteriores.
++Si un objeto ha sido asignado a un grupo, ya no se vuelve a cambiar.
+\El algoritmo k-medias:
++Se trata de un algoritmo iterativo.
+-Utiliza K iteraciones.
++Se compone de 2 fases, de asignación y re-asignación.
+\El valor de K:
+-Siempre se elige de forma óptima.
++Para seleccionarlo se requiere de un cierto balance.
++Se puede utilizar el criterio de negocio.
+\En el cluster jerárquico:
++No se conoce de antemano cuantos grupos son necesarios.
+-Se conoce de antemano cuantos grupos se desean.
++Se utiliza una representación en árbol llamada dendrograma.
+|Los algoritmos jerárquicos aglomerativos:
+-Son un método top-down.
++Son un método bottom-up.
+-Son un método bottom-up y top-down.
+|Los algoritmos jerárquicos divisivos:
++Son un método top-down.
+-Son un método bottom-up.
+-Son un método bottom-up y top-down.

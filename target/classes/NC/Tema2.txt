@@ -1,0 +1,50 @@
+|Sobre el funcionamiento del sistema nervioso:
+-Ya se conoce en detalle cómo genera todos los procesos mentales y por lo tanto se puede replicar en máquinas.
+-Ya se conoce en detalle cómo genera todos los procesos mentales, pero no se puede replicar en máquinas.
++Aún falta mucho para entender completamente cómo se generan los procesos mentales.
+-Desde que terminó el proyecto Genoma Humano se conoce perfectamente el funcionamiento del cerebro.
+|Los métodos principales de bioinspiración son:
++Simulación y modelado funcional.
+-Simulación y replicación biológica.
+-Modelado genético y simulación.
+-Modelos de simulación y reingeniería.
+|¿Cuáles son los dos principales criterios para clasificar los componentes del sistema nervioso?
+-Funcional y de procesamiento.
+-Anatómico y de ubicación.
++Anatómico y fisiológico-funcional.
+-Fisiológico y genético.
+|Atendiendo a un criterio anatómico, el sistema nervioso se divide en:
+-Sistema nervioso central y sistema nervioso autónomo.
++Sistema nervioso central y sistema nervioso periférico.
+-Sistema nervioso simpático y sistema nervioso parasimpático.
+-Sistema nervioso somático y sistema nervioso autónomo.
+|Atendiendo a la fisiología, el sistema nervioso se divide en:
+-Sistema nervioso central y sistema nervioso autónomo.
+-Sistema nervioso central y sistema nervioso periférico.
+-Sistema nervioso simpático y sistema nervioso parasimpático.
++Sistema nervioso somático y sistema nervioso autónomo.
+|Los sistemas aferentes al neuroeje:
++Transmiten información hacia el sistema nervioso central.
+-Emiten información desde el sistema nervioso central.
+-Envían comandos a los músculos y vísceras.
+-Se dividen en simpático y parasimpático.
+|En neuroanatomía, un corte caudal se refiere a:
+-El lado trasero.
+-Cerca o hacia la mitad.
+-El lado opuesto.
++La posición más baja.
+|Los principales componentes del Sistema Nervioso Periférico son:
+-Las fibras eferentes y los ganglios.
+-Las fibras aferentes y los ganglios.
++Los nervios craneales y los nervios espinales.
+-Los nervios espinales y los nervios corticales.
+|Los dos componentes principales del cerebro son:
++El telencéfalo y el diencéfalo.
+-El cerebelo y el tronco encefálico.
+-El prosencéfalo y el cerebelo.
+-El tronco encefálico y el encéfalo.
+|El hipotálamo se encuentra en:
+-Telencéfalo.
++El diencéfalo.
+-La médula espinal.
+-Bulbo raquídeo.

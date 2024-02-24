@@ -1,0 +1,50 @@
+|¿Cuál es la escala de tiempo aproximada asociada a la memoria a corto plazo?
+-Milisegundo.
++Segundos.
+-Horas.
+-Años.
+|En cuanto a las bases neurológicas de la memoria:
+-Se ha identificado un centro único de almacenamiento.
+-El almacenamiento y la recuperación ocurren en la amígdala.
++El hipocampo es importante para la memoria a largo plazo
+-El hipocampo es importante para la memoria a corto plazo.
+|La memoria implícita se refiera a:
++Contenidos inconscientes.
+-Contenidos verbales.
+-Contenidos episódicos.
+-Contenidos explícitos.
+|La memoria semántica y la memoria episódica:
+-Requieren principalmente la activación de los ganglios basales.
+-Son tipos de memoria no declarativa.
+-Son tipos de memoria procedimental.
++Conforman la memoria declarativa.
+|Los contenidos de la memoria episódica:
+-Son no verbales.
+-Son descontextualizados.
++Están contextualizados temporal y espacialmente.
+-No se refieren al sujeto.
+|¿Cuál de los siguientes no es un componente de la memoria operativa?
++Agenda temporo-espacial.
+-Lazo fonológico.
+-Retén episódico.
+-Ejecutivo-central.
+|La memoria sensorial se refiere a:
++Memoria monomodal.
+-Memoria a largo plazo.
+-Memoria multimodal.
+-Memoria de asociación.
+|La corteza prefrontal dorsolateral está asociada con:
++El proceso de selección.
+-La memoria procedimental.
+-El aprendizaje asociativo emocional inconsciente.
+-La memoria no declarativa.
+|Las lesiones en los ganglios basales pueden provocar déficits en la:
+-Memoria verbal.
+-Memoria declarativa.
+-Memoria episódica.
++Memoria procedimental.
+|La amígdala se encarga de:
++Procesar los contenidos emocionales.
+-Filtrar los estímulos monomodales.
+-Fijar la memoria explícita a largo plazo.
+-La coordinación sensoriomotora fina.

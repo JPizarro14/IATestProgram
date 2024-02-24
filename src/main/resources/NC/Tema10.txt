@@ -1,0 +1,50 @@
+|Las palabras son:
+-Objetivos en sí mismas.
+-Objetos no representacionales.
++Objetos que representan a otros objetos.
+-Signos.
+|La semántica se ocupa de:
++El estudio del significado.
+-El lenguaje no verbal.
+-El orden de las palabras.
+-La formación de las palabras.
+|La transformación de «pez» a «peces» es un ejemplo de:
+-Morfología derivativa.
+-Morfología numerativa.
++Morfología inflexiva.
+-Morfología iterativa.
+|El lexicón de un adulto puede variar entre:
+-Uno y diez alimentos.
+-Diez y cien alimentos.
+-Diez mil y doce mil elementos.
++Quince mil y ciento cincuenta mil elementos.
+|Las áreas cerebrales del lenguaje se han identificado gracias:
+-Estudio de pacientes con afasia.
+-Investigaciones con técnicas de neuroimagen.
+-Investigaciones con estimulación eléctrica.
++Todas las anteriores son correctas.
+|Las principales áreas del lenguaje se suelen localizar en:
+-El hemisferio no dominante.
++El hemisferio dominante.
+-En ambos hemisferios del cerebelo.
+-En ambos hemisferios del cerebro.
+|La lesión en el fascículo arqueado provoca:
+-Afasia motora.
+-Afasia sensorial.
++Afasia de conducción.
+-Afasia total.
+|A nivel subcortical:
++Algunos centros del tálamo juegan un papel en el lenguaje.
+-No hay áreas relacionadas con el lenguaje.
+-Algunos centros de la amígdala juegan un papel en el lenguaje.
+-Algunos centros del hipocampo juegan un papel en el lenguaje.
+|El centro A se describe en el modelo de:
+-Damasio.
++Wernicke-Lichtein.
+-Mesulman.
+-Geschwind.
+|En el modelo de Damasio, el sistema de conceptos se encarga de:
+-Reconocer la ortografía.
+-Generar los movimientos del habla.
+-Procesar representaciones fonémicas.
++Planificar, recordar y asociar conceptos.
